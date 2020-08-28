@@ -1,1 +1,1 @@
-A personal blog website built using [Next.js](https://nextjs.org/learn).
+A personal blog built using [Next.js](https://nextjs.org/learn).
