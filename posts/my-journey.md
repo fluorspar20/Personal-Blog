@@ -1,0 +1,15 @@
+---
+title: 'How did I start as a Web Developer'
+date: '2020-07-09'
+---
+
+I remember coming across web development for the very first time in the first year of my college. My seniors had organised a workshop for us to introduce us to the world of web development. I was so intrigued by the workshop that I couldn't control my urge to know a bit more about it. I came back to my hotel and immediately started surfing about web development, what it meant, how one is supposed to begin, what are the perks of being a web developer and ofc, how much does a web developer earn :P
+
+As I kept exploring more about it , I realized that this was something I wanna know more about and is worth giving a shot. My excitement was doubled after my seniors announced a Hackathon where we were supposed to design a frontend UI for our college super market accompanied by some database technologies. I knew at that very moment that I wanted to be a part of this. This is how my journey into web development began. Ever since then, it has only gotten even more interesting and fun. I wake up everyday hoping to learn something new and cool and end up making something amazing by the end of the day. Web development has actually become a part of my life. I can't imagine what I would do if it weren't for this newly-found love for web development.
+
+It didn't end here. After the Hackathon, I was sure about one thing, I wanted to delve deeper into this field. But I was clueless about how should I start. Then I came across an article which had a structured roadmap with all the relevant resources available. I started learning basic HTML and CSS from w3Schools and I would recommend it to everybody who's set to start web development. It has a well structured content with sufficient examples. It took about a month for me to master HTML and cover the basics of CSS. It was then that I came to know about a very popular website named FreeCodeCamp. This website is undoubtedly one of the best online resource you could find for web development. It has everything a beginner could ask for. Right from the basics of HTML to extreme features of ES6 version of EcmaScript, it literally has everything! I spent about a month more working with that website and once I had finished, I could see myself design a website on my own and it takes a while for this achievement to sink in :)
+
+Since then, I've come a long way in frontend development, having learnt responsive web design, some popular CSS frameworks like MaterialUI and Bootstrap and I am currently exploring Reactjs.
+
+During this journey, I've learnt a lot.
+Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your web dev skills, try it out. Web dev is a fun, creative experience.You can make texts appear or disappear, create a clickable button and even drag pictures wherever you want on the screen. It all depends on however you want software or a website to work.In my opinion, every programming enthusiast should try web development atleast once :)
